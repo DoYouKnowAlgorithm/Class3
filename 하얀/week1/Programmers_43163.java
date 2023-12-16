@@ -1,3 +1,5 @@
+package week1;
+
 public class Programmers_43163 {
     private static String[] words;
     private static String target;
